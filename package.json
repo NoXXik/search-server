@@ -12,8 +12,6 @@
     "serve": "^14.0.1"
   },
   "scripts": {
-    "start": "node server.js",
-    "build": "ng build",
-    "heroku-postbuild": "ng build --prod"
+    "start": "npm start"
   }
 }
