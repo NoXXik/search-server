@@ -12,7 +12,7 @@
     "serve": "^14.0.1"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "node server.js",
     "heroku-postbuild": "node server.js"
   }
 }
