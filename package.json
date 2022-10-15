@@ -13,6 +13,6 @@
   },
   "scripts": {
     "start": "npm start",
-    "heroku-postbuild": "npm start"
+    "heroku-postbuild": "node server.js"
   }
 }
