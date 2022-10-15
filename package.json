@@ -13,6 +13,6 @@
   },
   "scripts": {
     "start": "npm start",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm start"
   }
 }
